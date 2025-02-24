@@ -10,8 +10,8 @@ Archivos
 Instrucciones
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/facundoalmiento/proyecto-final-control-pesaje-camiones.git
-   cd proyecto-final-control-pesaje-camiones
+   git clone [(https://github.com/facundoalmiento/control-pesajes-Almiento.git)]
+   cd control-pesajes-Almiento
    ```
 
 2. Ejecutar el script SQL en un gestor de bases de datos compatible con SQL (por ejemplo, MySQL, PostgreSQL):
